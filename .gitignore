@@ -10,6 +10,10 @@
 *.xml
 
 */.idea/*
+*/.vs/*
+*/.vs
+.vs
+/.vs/
 .idea/*
 /.idea/
 /.idea/
