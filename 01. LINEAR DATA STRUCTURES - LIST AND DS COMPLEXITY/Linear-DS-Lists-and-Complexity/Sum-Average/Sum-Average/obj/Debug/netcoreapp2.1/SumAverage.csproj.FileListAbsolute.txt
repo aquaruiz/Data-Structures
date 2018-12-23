@@ -1,0 +1,11 @@
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\bin\Debug\netcoreapp2.1\SumAverage.deps.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\bin\Debug\netcoreapp2.1\SumAverage.runtimeconfig.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\bin\Debug\netcoreapp2.1\SumAverage.runtimeconfig.dev.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\bin\Debug\netcoreapp2.1\SumAverage.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\bin\Debug\netcoreapp2.1\SumAverage.pdb
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\obj\Debug\netcoreapp2.1\SumAverage.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\obj\Debug\netcoreapp2.1\SumAverage.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\obj\Debug\netcoreapp2.1\SumAverage.AssemblyInfoInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\obj\Debug\netcoreapp2.1\SumAverage.AssemblyInfo.cs
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\obj\Debug\netcoreapp2.1\SumAverage.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\Sum-Average\obj\Debug\netcoreapp2.1\SumAverage.pdb

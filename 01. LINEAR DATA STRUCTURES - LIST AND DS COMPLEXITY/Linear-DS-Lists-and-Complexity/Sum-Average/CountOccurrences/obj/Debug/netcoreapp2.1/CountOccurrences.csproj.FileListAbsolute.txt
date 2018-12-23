@@ -1,0 +1,10 @@
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.deps.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.runtimeconfig.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.runtimeconfig.dev.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\bin\Debug\netcoreapp2.1\CountOccurrences.pdb
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.AssemblyInfoInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.AssemblyInfo.cs
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\CountOccurrences\obj\Debug\netcoreapp2.1\CountOccurrences.pdb

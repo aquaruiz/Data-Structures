@@ -1,0 +1,11 @@
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\bin\Debug\netcoreapp2.1\SortWords.deps.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\bin\Debug\netcoreapp2.1\SortWords.runtimeconfig.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\bin\Debug\netcoreapp2.1\SortWords.runtimeconfig.dev.json
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\bin\Debug\netcoreapp2.1\SortWords.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\bin\Debug\netcoreapp2.1\SortWords.pdb
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\obj\Debug\netcoreapp2.1\SortWords.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\obj\Debug\netcoreapp2.1\SortWords.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\obj\Debug\netcoreapp2.1\SortWords.AssemblyInfoInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\obj\Debug\netcoreapp2.1\SortWords.AssemblyInfo.cs
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\obj\Debug\netcoreapp2.1\SortWords.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Linear-DS-Lists-and-Complexity\Sum-Average\SortWords\obj\Debug\netcoreapp2.1\SortWords.pdb
