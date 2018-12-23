@@ -1,0 +1,11 @@
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.pdb
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.pdb
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe.config
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CopyComplete
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.dll
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.pdb

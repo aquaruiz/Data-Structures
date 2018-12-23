@@ -1,0 +1,9 @@
+C:\Users\Pesho\Documents\Visual Studio 2017\Projects\DS\Skeletons\DS01-Lists\Linear-Data-Structures\Lists\bin\Debug\Lists.exe.config
+C:\Users\Pesho\Desktop\Linear-Data-Structures\Lists\bin\Debug\Lists.exe.config
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Lists\bin\Debug\Lists.exe.config
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Lists\bin\Debug\Lists.exe
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Lists\bin\Debug\Lists.pdb
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Lists\obj\Debug\Lists.exe
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Data-Structures-Lab\Linear-Data-Structures\Lists\obj\Debug\Lists.pdb
