@@ -4,46 +4,146 @@ using System.Collections.Generic;
 
 public class DoublyLinkedList<T> : IEnumerable<T>
 {
+    private class ListNode<T>
+    {
+        public T Value { get; private set; }
+
+        public ListNode<T> NextNode { get; set; }
+
+        public ListNode<T> PrevNode { get; set; }
+
+        public ListNode(T value)
+        {
+            this.Value = value;
+        }
+    }
+
+    private ListNode<T> head;
+
+    private ListNode<T> tail;
+
     public int Count { get; private set; }
 
     public void AddFirst(T element)
     {
-        throw new NotImplementedException();
+        if (this.Count == 0)
+        {
+            this.head = this.tail = new ListNode<T>(element);
+        }
+        else
+        {
+            var newHead = new ListNode<T>(element);
+            newHead.NextNode = this.head;
+            this.head.PrevNode = newHead;
+            this.head = newHead;
+        }
+
+        this.Count++;
     }
 
     public void AddLast(T element)
     {
-        throw new NotImplementedException();
+        if (this.Count == 0)
+        {
+            this.tail = this.head = new ListNode<T>(element);
+        }
+        else
+        {
+            var newTail = new ListNode<T>(element);
+            newTail.PrevNode = this.tail;
+            this.tail.NextNode = newTail;
+            this.tail = newTail;
+        }
+
+        this.Count++;
     }
 
     public T RemoveFirst()
     {
-        throw new NotImplementedException();
+        if (this.Count == 0)
+        {
+            throw new InvalidOperationException("List empty");
+        }
+
+        var firstElement = this.head.Value;
+        this.head = this.head.NextNode;
+
+        if (this.head != null)
+        {
+            this.head.PrevNode = null;
+        }
+        else
+        {
+            this.tail = null;
+        }
+
+        this.Count--;
+        return firstElement;
     }
 
     public T RemoveLast()
     {
-        throw new NotImplementedException();
+        if (this.Count == 0)
+        {
+            throw new InvalidOperationException("List empty");
+        }
+
+        var lastElement = this.tail.Value;
+        this.tail = this.tail.PrevNode;
+
+        if (this.tail != null)
+        {
+            this.tail.NextNode = null;
+        }
+        else
+        {
+            this.head = null;
+        }
+
+        this.Count--;
+        return lastElement;
     }
 
     public void ForEach(Action<T> action)
     {
-        throw new NotImplementedException();
+        var currentNode = this.head;
+
+        while (currentNode != null)
+        {
+            action(currentNode.Value);
+            currentNode = currentNode.NextNode;
+        }
     }
 
     public IEnumerator<T> GetEnumerator()
     {
-        throw new NotImplementedException();
+        var currentNode = this.head;
+
+        while (currentNode != null)
+        {
+            yield return currentNode.Value;
+            currentNode = currentNode.NextNode;
+        }
     }
 
     IEnumerator IEnumerable.GetEnumerator()
     {
-        throw new NotImplementedException();
+        return this.GetEnumerator();
     }
 
     public T[] ToArray()
     {
-        throw new NotImplementedException();
+        var arr = new T[this.Count];
+        int index = 0;
+        var currentNode = this.head;
+
+        while (currentNode != null)
+        {
+            arr[index++] = currentNode.Value;
+            currentNode = currentNode.NextNode;
+        }
+
+        return arr;
     }
 }
 

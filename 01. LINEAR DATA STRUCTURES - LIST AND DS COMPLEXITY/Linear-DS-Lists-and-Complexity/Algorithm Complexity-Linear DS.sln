@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveOddOccurrence", "Remo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountOccurrences", "CountOccurrences\CountOccurrences.csproj", "{CE20090D-6000-4C78-8BE4-F7A0C44219B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. ReversedList", "ReversedList\06. ReversedList.csproj", "{ABA24E20-B57D-457E-9DD3-90A1CB12AC15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversedList", "ReversedList\ReversedList.csproj", "{ABA24E20-B57D-457E-9DD3-90A1CB12AC15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum and Average", "SumAverage\01. Sum and Average.csproj", "{8D29D492-3A19-471E-BDD5-B4009F76C963}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAverage", "SumAverage\SumAverage.csproj", "{8D29D492-3A19-471E-BDD5-B4009F76C963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceLabyrinth", "DistanceLabyrinth\DistanceLabyrinth.csproj", "{07A394A8-8FDA-492D-A68F-E4A9506C7844}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8D29D492-3A19-471E-BDD5-B4009F76C963}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D29D492-3A19-471E-BDD5-B4009F76C963}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D29D492-3A19-471E-BDD5-B4009F76C963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A394A8-8FDA-492D-A68F-E4A9506C7844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A394A8-8FDA-492D-A68F-E4A9506C7844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A394A8-8FDA-492D-A68F-E4A9506C7844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A394A8-8FDA-492D-A68F-E4A9506C7844}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

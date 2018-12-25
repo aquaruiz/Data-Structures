@@ -1,0 +1,6 @@
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Doubly-Linked-List-CSharp\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Doubly-Linked-List-CSharp\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Doubly-Linked-List-CSharp\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Doubly-Linked-List-CSharp\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Doubly-Linked-List-CSharp\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\Git-Repos\Data-Structures\01. LINEAR DATA STRUCTURES - LIST AND DS COMPLEXITY\Doubly-Linked-List-CSharp\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
