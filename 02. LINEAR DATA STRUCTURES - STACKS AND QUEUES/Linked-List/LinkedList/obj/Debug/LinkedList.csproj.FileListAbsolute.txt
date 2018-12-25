@@ -1,0 +1,7 @@
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Linked-List\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Linked-List\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Linked-List\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Linked-List\LinkedList\bin\Debug\LinkedList.exe
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Linked-List\LinkedList\bin\Debug\LinkedList.pdb
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Linked-List\LinkedList\obj\Debug\LinkedList.exe
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Linked-List\LinkedList\obj\Debug\LinkedList.pdb
