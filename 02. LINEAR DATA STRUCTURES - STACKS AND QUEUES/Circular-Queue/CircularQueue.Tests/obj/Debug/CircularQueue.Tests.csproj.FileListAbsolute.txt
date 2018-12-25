@@ -1,0 +1,10 @@
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csproj.CopyComplete
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+D:\Git-Repos\Data-Structures\02. LINEAR DATA STRUCTURES - STACKS AND QUEUES\Circular-Queue\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb
