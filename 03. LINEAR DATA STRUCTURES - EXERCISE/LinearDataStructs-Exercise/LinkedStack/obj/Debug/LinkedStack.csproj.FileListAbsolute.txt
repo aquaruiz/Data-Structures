@@ -1,0 +1,7 @@
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedStack\bin\Debug\LinkedStack.exe.config
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedStack\bin\Debug\LinkedStack.exe
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedStack\bin\Debug\LinkedStack.pdb
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedStack\obj\Debug\LinkedStack.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedStack\obj\Debug\LinkedStack.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedStack\obj\Debug\LinkedStack.exe
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedStack\obj\Debug\LinkedStack.pdb

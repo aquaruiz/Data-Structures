@@ -1,0 +1,11 @@
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\obj\Debug\netcoreapp2.1\SequenceNM.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\obj\Debug\netcoreapp2.1\SequenceNM.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\obj\Debug\netcoreapp2.1\SequenceNM.AssemblyInfoInputs.cache
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\obj\Debug\netcoreapp2.1\SequenceNM.AssemblyInfo.cs
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\bin\Debug\netcoreapp2.1\SequenceNM.deps.json
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\bin\Debug\netcoreapp2.1\SequenceNM.runtimeconfig.json
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\bin\Debug\netcoreapp2.1\SequenceNM.runtimeconfig.dev.json
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\bin\Debug\netcoreapp2.1\SequenceNM.dll
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\bin\Debug\netcoreapp2.1\SequenceNM.pdb
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\obj\Debug\netcoreapp2.1\SequenceNM.dll
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\SequenceNM\obj\Debug\netcoreapp2.1\SequenceNM.pdb

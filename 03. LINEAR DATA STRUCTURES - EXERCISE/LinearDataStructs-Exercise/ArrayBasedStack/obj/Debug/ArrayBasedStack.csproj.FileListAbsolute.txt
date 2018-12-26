@@ -1,0 +1,2 @@
+C:\Users\Obache\Desktop\LinearDataStructs-Exercise\LinearDataStructs-Exercise\ArrayBasedStack\obj\Debug\ArrayBasedStack.csprojAssemblyReference.cache
+C:\Users\Obache\Desktop\LinearDataStructs-Exercise\LinearDataStructs-Exercise\ArrayBasedStack\obj\Debug\ArrayBasedStack.csproj.CoreCompileInputs.cache

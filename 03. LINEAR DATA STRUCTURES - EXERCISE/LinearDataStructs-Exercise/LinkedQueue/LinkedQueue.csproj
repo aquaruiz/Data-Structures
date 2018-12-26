@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B5ED66EB-AB4D-4336-90BF-D3DD6E464E4F}</ProjectGuid>
+    <ProjectGuid>{C89D3B46-E6FB-4A28-B6DD-D6E1085338F6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ArrayBasedStack</RootNamespace>
-    <AssemblyName>ArrayBasedStack</AssemblyName>
+    <RootNamespace>LinkedQueue</RootNamespace>
+    <AssemblyName>LinkedQueue</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArrayBasedStack.cs" />
+    <Compile Include="LinkedQueue.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

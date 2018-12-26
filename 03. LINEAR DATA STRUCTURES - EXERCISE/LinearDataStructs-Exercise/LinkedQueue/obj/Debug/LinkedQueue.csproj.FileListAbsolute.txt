@@ -1,0 +1,7 @@
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedQueue\bin\Debug\LinkedQueue.exe.config
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedQueue\bin\Debug\LinkedQueue.exe
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedQueue\bin\Debug\LinkedQueue.pdb
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedQueue\obj\Debug\LinkedQueue.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedQueue\obj\Debug\LinkedQueue.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedQueue\obj\Debug\LinkedQueue.exe
+D:\Git-Repos\Data-Structures\03. LINEAR DATA STRUCTURES - EXERCISE\LinearDataStructs-Exercise\LinkedQueue\obj\Debug\LinkedQueue.pdb
