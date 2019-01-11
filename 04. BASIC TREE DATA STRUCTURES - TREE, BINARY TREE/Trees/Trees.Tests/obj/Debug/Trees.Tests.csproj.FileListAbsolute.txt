@@ -1,0 +1,11 @@
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\bin\Debug\Trees.Tests.dll
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\bin\Debug\Trees.Tests.pdb
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\bin\Debug\Trees.exe
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\bin\Debug\Trees.pdb
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\bin\Debug\Trees.exe.config
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\obj\Debug\Trees.Tests.csprojAssemblyReference.cache
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CoreCompileInputs.cache
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CopyComplete
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\obj\Debug\Trees.Tests.dll
+D:\Git-Repos\Data-Structures\04. BASIC TREE DATA STRUCTURES - TREE, BINARY TREE\03. Data-Structures-Basic-Trees-Lab-Skeleton\Trees\Trees.Tests\obj\Debug\Trees.Tests.pdb
