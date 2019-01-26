@@ -1,0 +1,7 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BST-Exercise/BinarySearchTree/bin/Debug/BinarySearchTree.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BST-Exercise/BinarySearchTree/bin/Debug/BinarySearchTree.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BST-Exercise/BinarySearchTree/bin/Debug/BinarySearchTree.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BST-Exercise/BinarySearchTree/obj/Debug/BinarySearchTree.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BST-Exercise/BinarySearchTree/obj/Debug/BinarySearchTree.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BST-Exercise/BinarySearchTree/obj/Debug/BinarySearchTree.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BST-Exercise/BinarySearchTree/obj/Debug/BinarySearchTree.pdb
