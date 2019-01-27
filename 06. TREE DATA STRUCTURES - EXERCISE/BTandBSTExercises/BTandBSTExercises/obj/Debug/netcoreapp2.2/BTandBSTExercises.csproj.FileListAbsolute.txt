@@ -1,0 +1,22 @@
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.deps.json
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.runtimeconfig.json
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.runtimeconfig.dev.json
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.dll
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.pdb
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.csprojAssemblyReference.cache
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.csproj.CoreCompileInputs.cache
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.AssemblyInfoInputs.cache
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.AssemblyInfo.cs
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.dll
+/home/aquariuz/Projects/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.deps.json
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.runtimeconfig.json
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.runtimeconfig.dev.json
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.dll
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/bin/Debug/netcoreapp2.2/BTandBSTExercises.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.AssemblyInfoInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.AssemblyInfo.cs
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.dll
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/06. TREE DATA STRUCTURES - EXERCISE/BTandBSTExercises/BTandBSTExercises/obj/Debug/netcoreapp2.2/BTandBSTExercises.pdb
