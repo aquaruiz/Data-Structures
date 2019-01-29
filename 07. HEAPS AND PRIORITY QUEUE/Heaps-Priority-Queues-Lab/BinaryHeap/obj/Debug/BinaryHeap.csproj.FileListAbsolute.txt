@@ -1,0 +1,6 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Heaps-Priority-Queues-Lab/BinaryHeap/obj/Debug/BinaryHeap.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Heaps-Priority-Queues-Lab/BinaryHeap/obj/Debug/BinaryHeap.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Heaps-Priority-Queues-Lab/BinaryHeap/bin/Debug/BinaryHeap.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Heaps-Priority-Queues-Lab/BinaryHeap/bin/Debug/BinaryHeap.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Heaps-Priority-Queues-Lab/BinaryHeap/obj/Debug/BinaryHeap.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Heaps-Priority-Queues-Lab/BinaryHeap/obj/Debug/BinaryHeap.pdb
