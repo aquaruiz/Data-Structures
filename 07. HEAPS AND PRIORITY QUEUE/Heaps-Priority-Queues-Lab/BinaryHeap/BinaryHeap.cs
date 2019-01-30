@@ -49,8 +49,6 @@ public class BinaryHeap<T> where T : IComparable<T>
         T temp = this.heap[parent];
         this.heap[parent] = this.heap[index];
         this.heap[index] = temp;
-
-
     }
 
     private void HeapifyUpIterative(int index)
@@ -92,12 +90,12 @@ public class BinaryHeap<T> where T : IComparable<T>
         T element = this.heap[0];
         this.Swap(0, this.Count - 1);
         this.heap.RemoveAt(this.Count - 1);
-        this.HeapifyDown(element, 0);
+        this.HeapifyDown(0);
 
         return element;
     }
 
-    private void HeapifyDown(T element, int index)
+    private void HeapifyDown(int index)
     {
         int parentIndex = index;
 
