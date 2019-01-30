@@ -1,0 +1,7 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Exercise/AStar/AStar/bin/Debug/AStar.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Exercise/AStar/AStar/bin/Debug/AStar.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Exercise/AStar/AStar/bin/Debug/AStar.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Exercise/AStar/AStar/obj/Debug/AStar.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Exercise/AStar/AStar/obj/Debug/AStar.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Exercise/AStar/AStar/obj/Debug/AStar.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/07. HEAPS AND PRIORITY QUEUE/Exercise/AStar/AStar/obj/Debug/AStar.pdb
