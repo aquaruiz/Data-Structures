@@ -1,0 +1,11 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/obj/Debug/Hierarchy.Core.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/obj/Debug/Hierarchy.Core.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/obj/Debug/Hierarchy.Core.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/bin/Debug/Hierarchy.Core.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/bin/Debug/Hierarchy.Core.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/bin/Debug/Hierarchy.Core.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/bin/Debug/SoftUni.Wintellect.PowerCollections.dll
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/bin/Debug/SoftUni.Wintellect.PowerCollections.xml
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/obj/Debug/Hierarchy.Core.csproj.CopyComplete
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/obj/Debug/Hierarchy.Core.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/09. B-TREES AND RED-BLACK TREES - EXERCISE/Hierarchy - Exercise/Hierarchy.Core/obj/Debug/Hierarchy.Core.pdb
