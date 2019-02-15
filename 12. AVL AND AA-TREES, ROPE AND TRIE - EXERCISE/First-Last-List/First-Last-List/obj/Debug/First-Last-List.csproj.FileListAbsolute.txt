@@ -1,0 +1,11 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/bin/Debug/First-Last-List.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/bin/Debug/First-Last-List.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/bin/Debug/First-Last-List.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/bin/Debug/SoftUni.Wintellect.PowerCollections.dll
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/bin/Debug/SoftUni.Wintellect.PowerCollections.xml
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/obj/Debug/First-Last-List.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/obj/Debug/First-Last-List.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/obj/Debug/First-Last-List.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/obj/Debug/First-Last-List.csproj.CopyComplete
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/obj/Debug/First-Last-List.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/First-Last-List/First-Last-List/obj/Debug/First-Last-List.pdb
