@@ -1,0 +1,7 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/11. ROPE AND TRIE/Trie/Trie/bin/Debug/Trie.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/11. ROPE AND TRIE/Trie/Trie/bin/Debug/Trie.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/11. ROPE AND TRIE/Trie/Trie/bin/Debug/Trie.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/11. ROPE AND TRIE/Trie/Trie/obj/Debug/Trie.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/11. ROPE AND TRIE/Trie/Trie/obj/Debug/Trie.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/11. ROPE AND TRIE/Trie/Trie/obj/Debug/Trie.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/11. ROPE AND TRIE/Trie/Trie/obj/Debug/Trie.pdb
