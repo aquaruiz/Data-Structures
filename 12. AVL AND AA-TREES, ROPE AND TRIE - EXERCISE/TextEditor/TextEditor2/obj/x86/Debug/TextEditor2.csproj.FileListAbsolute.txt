@@ -1,0 +1,12 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/TextEditor2/obj/x86/Debug/TextEditor2.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/TextEditor2/obj/x86/Debug/TextEditor2.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/TextEditor2/bin/Debug/TextEditor2.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/TextEditor2/bin/Debug/TextEditor2.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/TextEditor2/obj/x86/Debug/TextEditor2.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/TextEditor2/obj/x86/Debug/TextEditor2.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/bin/Debug/TextEditor2.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/bin/Debug/TextEditor2.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/obj/x86/Debug/TextEditor2.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/obj/x86/Debug/TextEditor2.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/obj/x86/Debug/TextEditor2.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/12. AVL AND AA-TREES, ROPE AND TRIE - EXERCISE/TextEditor2/TextEditor2/obj/x86/Debug/TextEditor2.pdb
