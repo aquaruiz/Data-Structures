@@ -1,0 +1,6 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/MassEffectGalaxyMap/MassEffectGalaxyMap/MassEffectGalaxyMap/bin/Debug/MassEffectGalaxyMap.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/MassEffectGalaxyMap/MassEffectGalaxyMap/MassEffectGalaxyMap/bin/Debug/MassEffectGalaxyMap.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/MassEffectGalaxyMap/MassEffectGalaxyMap/MassEffectGalaxyMap/obj/x86/Debug/MassEffectGalaxyMap.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/MassEffectGalaxyMap/MassEffectGalaxyMap/MassEffectGalaxyMap/obj/x86/Debug/MassEffectGalaxyMap.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/MassEffectGalaxyMap/MassEffectGalaxyMap/MassEffectGalaxyMap/obj/x86/Debug/MassEffectGalaxyMap.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/MassEffectGalaxyMap/MassEffectGalaxyMap/MassEffectGalaxyMap/obj/x86/Debug/MassEffectGalaxyMap.pdb

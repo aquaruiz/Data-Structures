@@ -1,0 +1,6 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/Phonebook/bin/Debug/Phonebook.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/Phonebook/bin/Debug/Phonebook.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/Phonebook/obj/x86/Debug/Phonebook.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/Phonebook/obj/x86/Debug/Phonebook.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/Phonebook/obj/x86/Debug/Phonebook.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/15. QUAD K-D INTERVAL TREES, HASH TABLES - EXERCISE/Phonebook/obj/x86/Debug/Phonebook.pdb
