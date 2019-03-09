@@ -1,0 +1,10 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/bin/Debug/PersonCollection.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/bin/Debug/PersonCollection.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/bin/Debug/PersonCollection.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/bin/Debug/PowerCollections.dll
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/obj/Debug/PersonCollection.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/obj/Debug/PersonCollection.exe.config
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/obj/Debug/PersonCollection.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/obj/Debug/PersonCollection.csproj.CopyComplete
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/obj/Debug/PersonCollection.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/16. COMBINING DATA STRUCTURES/11. Data-Structures-Combining-Data-Structures/PersonCollection/PersonCollection/obj/Debug/PersonCollection.pdb
