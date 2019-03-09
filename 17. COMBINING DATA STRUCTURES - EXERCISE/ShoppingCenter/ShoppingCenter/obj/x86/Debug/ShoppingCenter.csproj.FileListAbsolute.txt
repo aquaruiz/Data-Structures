@@ -1,0 +1,9 @@
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/obj/x86/Debug/ShoppingCenter.csprojAssemblyReference.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/obj/x86/Debug/ShoppingCenter.csproj.CoreCompileInputs.cache
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/bin/Debug/ShoppingCenter.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/bin/Debug/ShoppingCenter.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/bin/Debug/PowerCollections.dll
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/obj/x86/Debug/ShoppingCenter.csproj.CopyComplete
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/obj/x86/Debug/ShoppingCenter.exe
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/obj/x86/Debug/ShoppingCenter.pdb
+/media/aquariuz/7830ACF030ACB692/Git-Repos/Data-Structures/17. COMBINING DATA STRUCTURES - EXERCISE/ShoppingCenter/ShoppingCenter/bin/Debug/System.Console.dll
